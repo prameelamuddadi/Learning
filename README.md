@@ -1,2 +1,2 @@
 # Learning
-learning git
+learning git bash commands
